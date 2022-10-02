@@ -33,7 +33,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	runtime('org.springframework.boot:spring-boot-devtools')
-	compile 'org.webjars:bootstrap:3.3.7-1'
+	compile 'org.webjars:bootstrap:4.6.0-1'
 	compileOnly('org.projectlombok:lombok')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
